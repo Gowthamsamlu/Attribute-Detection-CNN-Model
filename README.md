@@ -21,6 +21,11 @@ Working of the Application:-
   #4 Profession Prediction:
       Run the 'predict_profession.ipynb' in 'Profession_Classification' folder, it asks for the dialog input for predicting the Profession and the Output is displayed beneath.
 
+Developement IDEs:-
+  Jupyter Notebook - Python programming
+  TensorFlow - Building, Training, Testing and Predicting the CNN Model
+  Python ML Packages, Word Embedding libraries (One Hot Encoding)
+
 Incase of any queries, feel free to mail me at gowthamsamlu@gmail.com .
 
 Regards,
