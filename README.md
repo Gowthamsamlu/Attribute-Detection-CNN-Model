@@ -3,6 +3,7 @@
 This Repository consist of four CNN Models that takes user conversation in the form of text to predict the user's hidden attributes mentioned below.
 
 Hidden Attributes are :-
+
   1 - Gender ( Male / Female )
   
   2 - Age Category ( Child / Teenager / Adult / Middle-Aged / Senior ) 
