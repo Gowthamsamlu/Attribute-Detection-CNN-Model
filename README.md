@@ -33,9 +33,7 @@ Working of the Application:-
 Development IDEs:-
   
   Jupyter Notebook - Python programming
-  
   TensorFlow - Building, Training, Testing and Predicting the CNN Model
-  
   Python ML Packages, Word Embedding libraries (One Hot Encoding)
 
 Incase of any queries, feel free to mail me at gowthamsamlu@gmail.com .
